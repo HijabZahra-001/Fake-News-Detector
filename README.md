@@ -142,8 +142,3 @@ The **Logistic Regression** model performed the best with 95% accuracy.
 
 ---
 
-
-
----
-
-**Built with ❤️ to fight misinformation and fake news**
