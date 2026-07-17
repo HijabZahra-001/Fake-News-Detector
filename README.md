@@ -59,12 +59,6 @@ The **Logistic Regression** model performed the best with 95% accuracy.
 
 ---
 
-## How to Use
-
-1. **Train the model** - Run the training script
-2. **Enter a news article** - Type or paste any news text
-3. **Get prediction** - The system tells you if it's Real or Fake
-4. **View confidence** - See how sure the system is about its prediction
 
 ### Sample Results
 
@@ -91,9 +85,7 @@ The **Logistic Regression** model performed the best with 95% accuracy.
 
 - **dataset.csv** - Contains training data
 - **model.pkl** - The trained model
-- **vectorizer.pkl** - Tool for text processing
-- **train_model.py** - Script to train the model
-- **predict.py** - Script to make predictions
+- **Fake_News_Detection_System.ipynb
 - **Graphs** - Visual performance comparisons
 
 ---
@@ -105,40 +97,6 @@ The **Logistic Regression** model performed the best with 95% accuracy.
 - **Individuals** - Check if news is trustworthy
 - **Schools** - Teach students about fake news
 - **Media Companies** - Automate fact-checking
-
----
-
-## Future Plans
-
-- Add deep learning models like LSTM and BERT
-- Create a web interface for easy access
-- Build a mobile app
-- Support multiple languages
-- Add source credibility scoring
-- Integrate with social media platforms
-
----
-
-## Acknowledgments
-
-- scikit-learn for machine learning tools
-- NLTK for text processing
-- Python community for great libraries
-
----
-
-## Author
-
-**Your Name**
-- Internship Project
-- July 2026
-
----
-
-## Connect With Me
-
-- GitHub: yourusername
-- LinkedIn: yourprofile
 
 ---
 
